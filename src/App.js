@@ -1,5 +1,11 @@
+import Products from './components/Products/Products'
+
 function App() {
-  return <div>E-Commerce Store</div>
+  return (
+    <div>
+      <Products />
+    </div>
+  )
 }
 
 export default App
